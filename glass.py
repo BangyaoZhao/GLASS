@@ -8,7 +8,7 @@ tfb = tfp.bijectors
 
 from scipy.special import log_softmax, softmax
 
-class SHREK:
+class GLASS:
     def __init__(self, shrinkage_factor=0, dtype = tf.float32) -> None:
         self.shrinkage_factor, self.dtype = shrinkage_factor, dtype
     
