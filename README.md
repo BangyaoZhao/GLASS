@@ -1,3 +1,3 @@
-# Multivariate Regression with the GLASS prior
+# Bayesian Inference on Brain-Computer Interfaces via GLASS
 
-The file `shrek.py` is a python module, users can download and use it. The file `example.ipynb` is an example of using the code.
+The folder `glass` is a python module. The file `example.ipynb` is an example of using the code.
