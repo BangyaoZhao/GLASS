@@ -37,7 +37,7 @@ The `data` folder contains scripts to manage and process the dataset.
 
 ## Python Environment
 
-The programming language used to reproduce this research is Python. To ensure compatibility and reproducibility, we have frozen the Python environment used at the time of the research in the `requirements.txt` file. You can set up your environment with all the necessary packages by using this file:
+The programming language used to reproduce this research is Python (Version 3.9.18). To ensure compatibility and reproducibility, we have frozen the Python environment used at the time of the research in the `requirements.txt` file. You can set up your environment with all the necessary packages by using this file:
 
 ```bash
 pip install -r requirements.txt
